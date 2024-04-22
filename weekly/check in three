@@ -1,1 +1,8 @@
+Weekly Check-in Two
+For each daily incldue the following information in the check-in:
 
+Research performed to incldue the URL of the information found.
+Overall purpose of the code written and which files were modified.
+
+Monday 
+ - Slow start to the week. Checked to see if the permissions were updated in PyCharm on this computer (they were not). Tomorrow's step is to figure out why the HTML is not loading on the Jupter Notebook. Today, I imported a "simple dash app" to see if that would let me begin the process of coding, but instead it gave me a 127.0.0.1 error that is local to my computer. Even a simpler dash app seems to not work....
