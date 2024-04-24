@@ -6,3 +6,7 @@ Overall purpose of the code written and which files were modified.
 
 Monday 
  - Slow start to the week. Checked to see if the permissions were updated in PyCharm on this computer (they were not). Tomorrow's step is to figure out why the HTML is not loading on the Jupter Notebook. Today, I imported a "simple dash app" to see if that would let me begin the process of coding, but instead it gave me a 127.0.0.1 error that is local to my computer. Even a simpler dash app seems to not work....
+Tuesday
+- Absent
+Wednesday
+ - Worked on installing a new kernel which would then include the packages dash & plotly, since they are not included on the other kernel. Why isn't the kernel I installed yesterday showing up when I go to select a kernel? I tried to reinstall to get the basic notebook setup so I could follow along with the YouTube video. A couple screenshots provided.
