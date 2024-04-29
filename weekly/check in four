@@ -1,0 +1,14 @@
+Weekly Check-in Two
+For each daily incldue the following information in the check-in:
+
+Research performed to incldue the URL of the information found.
+Overall purpose of the code written and which files were modified.
+
+Monday 
+ - I realized some stuff I did last week was on the right track, but totally wrong! Because of this, I cannot begin until I have properly installed the kernel with dash and plotly on it. I had also lost the kernel folder I had successfully created last week, and I'm not sure where it went. So, I spent my time re-watching the videos that I now know more about and re-creating the folders and I finally made it work!
+Tuesday
+- Absent
+Wednesday
+ - Worked on installing a new kernel which would then include the packages dash & plotly, since they are not included on the other kernel. Why isn't the kernel I installed yesterday showing up when I go to select a kernel? I tried to reinstall to get the basic notebook setup so I could follow along with the YouTube video. A couple screenshots provided. https://www.youtube.com/watch?v=ClTWPoDHY_s&ab_channel=Abstractprogrammer. This youtube video helped me understand installing jupyter notebooks using the command prompt window.
+Thursday
+- https://www.youtube.com/watch?v=O5QtTLvjNBE&ab_channel=TheCodeCity. This video helped me finally install the proper kernel using the desktop folder I had. Now, the jupyter notebook shows the DashPlotly folder I created with the kernels within it, and therefore I can move onto coding the kernels themselves to include the packages Dash and Plotly.
