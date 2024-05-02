@@ -3,7 +3,15 @@ import plotly.express as px
 
 import pandas as pd
 
+#to index the rows & columns to make them easier to call
+#listOfCountryNumbers = []
+
+#for loop to create listOfCountryNumbers
+#for i in range(200):
+    #listOfCountryNumbers.append("country"+str(i))
+
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv')
+print(df)
 
 app = Dash(__name__)
 
@@ -37,3 +45,7 @@ def update_figure(selected_year):
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+#read the file before it is separated based on the commas
+def normalizeData(file):
+    df.loc[0]
