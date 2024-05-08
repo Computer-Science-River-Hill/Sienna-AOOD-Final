@@ -11,6 +11,8 @@ import pandas as pd
     #listOfCountryNumbers.append("country"+str(i))
 
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv')
+#print(df[0][0])
+print(normalizeData(df))
 print(df)
 
 app = Dash(__name__)
@@ -48,4 +50,8 @@ if __name__ == '__main__':
 
 #read the file before it is separated based on the commas
 def normalizeData(file):
-    df.loc[0]
+    print(file.loc[:,"year"])
+    df['year'] = df['year'].astype(float)
+    file.loc[:,"year"] = file.loc[:,"year"]/100.0
+    #for i in range(0, len(yearColumn)):
+        #yearColumn[i] = yearColumn[i] / 100
