@@ -3,12 +3,7 @@ import plotly.express as px
 
 import pandas as pd
 
-#to index the rows & columns to make them easier to call
-#listOfCountryNumbers = []
-
-#for loop to create listOfCountryNumbers
-#for i in range(200):
-    #listOfCountryNumbers.append("country"+str(i))
+file = open(r'C:\Users\sienn\Downloads\eziemag.20240104.AAAAAAlSH_MA.zip\home\ezie\smr.60s\20240104\eziemag.2024010420.AAAAAAlSH_MA.smr.60s.txt')
 
 df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapminderDataFiveYear.csv')
 #print(df[0][0])
