@@ -1,0 +1,14 @@
+Weekly Check-in Two
+For each daily incldue the following information in the check-in:
+
+Research performed to incldue the URL of the information found.
+Overall purpose of the code written and which files were modified.
+
+Monday 
+ - Absent
+Tuesday
+- Absent
+Wednesday
+ - Spent some time thinking about normalizing the function. For example, with dataframes, they turned out to be more like normal arrays where I could set the values equal to one another, which was interesting. Furthermore, I read some articles on stack overflow about a future error and an int64 error. Here are the couple of sites I looked at: https://www.geeksforgeeks.org/how-to-search-and-replace-text-in-a-file-in-python/ and https://stackoverflow.com/questions/77185621/setting-an-item-of-incompatible-dtype-is-deprecated-and-will-raise-in-a-future-e and https://www.w3schools.com/python/pandas/pandas_dataframes.asp
+- Absent
+Friday

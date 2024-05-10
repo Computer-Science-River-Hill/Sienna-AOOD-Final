@@ -10,7 +10,8 @@ Tuesday
 - Finally discovered the kernel that I needed so that I can begin writing code. Read through the basic tutorial of Dash (https://dash.plotly.com/layout) and then started to read through the more detailed parts of writing the app. Was able to put some code down on the paper and decide how I want to change my graph so that it's different than just the fundamentals. Tomorrow I plan on gathering data in a spreadsheet so I can graph my own data. Put some code in the github coede respository.
 
 Wednesday
- - 
+ - I began setting up so I could learn the math! Read about the process to install more packages in case I need them (https://stackoverflow.com/questions/75388232/install-python-package-inside-a-jupyter-notebook-kernel). Hopefully I won't have to create a whole new kernel. Also read about typical normalization for a constant under the plotly graphing tool (https://plotly.com/python/v3/normalization/) and built in commands that exist. Since I want to normalize for an external variable, I will have to consider different methods for normalizing for a changing variable.
 Thursday
-- 
+- Started thinking about normalizing the data (dividing by a constant) with the given charts/graphs from the Dash wesbite. I read about the file they come in (csvs, which are the files I have my own data in!) and then they are made into dataframes. (https://www.w3schools.com/python/pandas/pandas_dataframes.asp) This has helped me understand how to manipulate dataframes, but I'm still understanding how to locate the rows/columns and divide GDP, for example, by a constant.
 Friday
+- Absent
